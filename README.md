@@ -10,3 +10,4 @@
 |5| BOJ     | 10807     |2022-03-12|[개수 세기](https://www.acmicpc.net/problem/10807) |🟩||
 |6| BOJ     | 13300     |2022-03-12|[방 배정](https://www.acmicpc.net/problem/13300) |🟩||
 |7| BOJ     | 11328     |2022-03-12|[Strfry](https://www.acmicpc.net/problem/11328) |🟩||
+|8| BOJ     | 1919     |2022-03-12|[애너그램 만들기](https://www.acmicpc.net/problem/1919) |🟩||
