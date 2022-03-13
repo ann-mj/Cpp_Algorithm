@@ -11,3 +11,8 @@
 |6| BOJ     | 13300     |2022-03-12|[방 배정](https://www.acmicpc.net/problem/13300) |🟩||
 |7| BOJ     | 11328     |2022-03-12|[Strfry](https://www.acmicpc.net/problem/11328) |🟩||
 |8| BOJ     | 1919     |2022-03-12|[애너그램 만들기](https://www.acmicpc.net/problem/1919) |🟩||
+
+
+## BFS 문제
+| 순서 | 문제 출처|번호| 날짜     | 문제      | 풀이  | 복습  |
+|1| BOJ     | 2178     |2022-03-13|[미로 탐색](https://www.acmicpc.net/problem/2178) |🟩||
