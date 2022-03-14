@@ -19,6 +19,7 @@
 |1| BOJ     | 2178     |2022-03-13|[미로 탐색](https://www.acmicpc.net/problem/2178) |🟩||
 |2| BOJ     | 7576     |2022-03-14|[토마토](https://www.acmicpc.net/problem/7576) |🟩||
 |3| BOJ     | 4179     |2022-03-14|[불](https://www.acmicpc.net/problem/4179) |🟩||
+|4| BOJ     | 1697     |2022-03-14|[숨바꼭질](https://www.acmicpc.net/problem/1697) |🟩||
 
 ## DP 문제
 | 순서 | 문제 출처|번호| 날짜     | 문제      | 풀이  | 복습  |
