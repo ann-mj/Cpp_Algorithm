@@ -50,3 +50,21 @@ int main(void) {
 
     return 0;
 }
+
+/**
+다음엔 이 방법도 고려해보자.
+fill(dist, dist+100001,-1);
+dist[n] = 0;
+queue<int> Q;
+Q.push(n);
+while(dist[k] == -1){
+    int cur = Q.front(); Q.pop();
+    for(int nxt : {cur-1, cur+1, 2*cur}) {
+        if(nxt < 0 || nxt > 100000) continue;
+        if(dist[nxt] != -1) continue;
+        dist[nxt] = dist[cur]+1;
+        Q.push(nxt);
+    }        
+}
+ * 
+ */
