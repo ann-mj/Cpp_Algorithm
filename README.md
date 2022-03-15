@@ -77,3 +77,4 @@
 |10|2022-03-15|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) |🟩|||
 |11|2022-03-15|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) |🟩|||
 |12|2022-03-15|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=cpp) |🟩||🟩|
+|13|2022-03-15|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |🟩||🟩|
