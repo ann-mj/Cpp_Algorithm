@@ -63,16 +63,17 @@
 
 ## 프로그래머스
 ### LEVEL1
-| 순서 | 날짜     | 문제      | 풀이  | 복습  |
-| :--------:| :--------: |:--------: | :--------: | :--------: |
-|1|2022-03-15|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=cpp) |🟩||
-|2|2022-03-15|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=cpp) |🟩||
-|3|2022-03-15|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=cpp) |🟩||
-|4|2022-03-15|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |🟩||
-|5|2022-03-15|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |🟩||
-|6|2022-03-15|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484?language=cpp) |🟩||
-|7|2022-03-15|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) |🟩||
-|8|2022-03-15|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=cpp) |🟩||
-|9|2022-03-15|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |🟩||
-|10|2022-03-15|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) |🟩||
-|11|2022-03-15|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) |🟩||
+| 순서 | 날짜     | 문제      | 풀이  | 복습  | 필수 |
+| :--------:| :--------: |:--------: | :--------: | :--------: |:--------: |
+|1|2022-03-15|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=cpp) |🟩|||
+|2|2022-03-15|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=cpp) |🟩|||
+|3|2022-03-15|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=cpp) |🟩|||
+|4|2022-03-15|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |🟩|||
+|5|2022-03-15|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |🟩|||
+|6|2022-03-15|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484?language=cpp) |🟩|||
+|7|2022-03-15|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) |🟩|||
+|8|2022-03-15|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=cpp) |🟩|||
+|9|2022-03-15|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |🟩|||
+|10|2022-03-15|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) |🟩|||
+|11|2022-03-15|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) |🟩|||
+|12|2022-03-15|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=cpp) |🟩||🟩|
