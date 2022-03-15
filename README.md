@@ -70,3 +70,4 @@
 |3|2022-03-15|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=cpp) |🟩||
 |4|2022-03-15|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |🟩||
 |5|2022-03-15|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |🟩||
+|6|2022-03-15|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484?language=cpp) |🟩||
