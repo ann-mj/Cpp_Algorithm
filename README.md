@@ -65,4 +65,5 @@
 ### LEVEL1
 | 순서 | 날짜     | 문제      | 풀이  | 복습  |
 | :--------:| :--------: |:--------: | :--------: | :--------: |
-|1          |2022-03-15|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=cpp) |🟩||
+|1|2022-03-15|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=cpp) |🟩||
+|2|2022-03-15|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=cpp) |🟩||
