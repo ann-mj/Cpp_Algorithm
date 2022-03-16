@@ -63,7 +63,7 @@
 |12|2022-03-15|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=cpp) |🟩||🟩|
 |13|2022-03-15|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |🟩||🟩|
 |14|2022-03-16|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) |🟩|||
-
+|15|2022-03-17|[k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |🟩|||
 
 ### LEVEL2
 | 순서 | 날짜     | 문제      | 풀이  | 복습  | 필수 |
