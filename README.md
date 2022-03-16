@@ -36,6 +36,7 @@
 |3| BOJ     | 10872     |2022-03-16|[팩토리얼(그냥 팩토리얼 값)](https://www.acmicpc.net/problem/10872) |🟩||
 |4| BOJ     | 5692     |2022-03-16|[팩토리얼 진법](https://www.acmicpc.net/problem/5692) |🟩||
 |5| BOJ     | 7489     |2022-03-16|[팩토리얼(최우측 0이아닌 수)](https://www.acmicpc.net/problem/7489) |🟩||
+|6| BOJ     | 2553     |2022-03-16|[마지막 팩토리얼 수](https://www.acmicpc.net/problem/2553) |🟩||
 
 ## 정수론 문제
 | 순서 | 문제 출처|번호| 날짜     | 문제      | 풀이  | 복습  |
