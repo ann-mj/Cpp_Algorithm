@@ -80,3 +80,4 @@
 |2|2022-03-17|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |🟩|||
 |3|2022-03-17|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |🟩|||
 |4|2022-03-17|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |🟩|||
+|5|2022-03-17|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |🟩|||
