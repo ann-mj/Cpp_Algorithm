@@ -51,6 +51,7 @@
 |1| BOJ     | 2750     |2022-03-17|[수 정렬하기](https://www.acmicpc.net/problem/2750) |🟩||
 |2| BOJ     | 1431     |2022-03-17|[시리얼 번호](https://www.acmicpc.net/problem/1431) |🟩||
 |3| BOJ     | 11652     |2022-03-17|[카드](https://www.acmicpc.net/problem/11652) |🟩||
+|4| BOJ     | 5648     |2022-03-17|[역원소 정렬](https://www.acmicpc.net/problem/5648) |🟩||
 
 ## 프로그래머스
 ### LEVEL1
