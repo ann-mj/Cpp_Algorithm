@@ -70,3 +70,4 @@
 | :--------:| :--------: |:--------: | :--------: | :--------: |:--------: |
 |1|2022-03-16|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) |🟩|||
 |2|2022-03-17|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |🟩|||
+|2|2022-03-17|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |🟩|||
