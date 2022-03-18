@@ -106,6 +106,7 @@
 |3|2022-03-17|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |🟩|||
 |4|2022-03-17|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |🟩|||
 |5|2022-03-17|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |🟩|||
+|6|2022-03-18|[타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43615) |🟩|||
 
 ### LEVEL3
 | 순서 | 날짜| 문제 | 풀이  | 복습  | 필수 |
