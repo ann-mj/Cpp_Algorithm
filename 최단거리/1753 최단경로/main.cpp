@@ -27,6 +27,7 @@ int main(void) {
     int max_value = (int) 1e9;
 
     int dist[20001];
+    int pre[20001];
     for(int i=0; i<=20000; i++) {
         dist[i] = max_value;
     }
@@ -36,6 +37,7 @@ int main(void) {
                     vector<pair<int,int>>,
                     greater<pair<int,int>>> pq;
     pq.push({dist[start_node], start_node});
+    pre[start_node] = 0;
 
     while(!pq.empty()) {
         auto cur = pq.top(); pq.pop();
@@ -47,10 +49,31 @@ int main(void) {
             int n_dist = nxt.second;
             if(dist[n_idx] > n_dist + dist[c_idx]) {
                 dist[n_idx] = n_dist + dist[c_idx];
+                pre[n_idx] = c_idx;
                 pq.push({dist[n_idx], n_idx});
             }
         }
     }
+    // 경로 출력
+    // for(int i=1; i<=V; i++) {
+    //     cout << i << " : ";
+    //     if(pre[i] == 0) {
+    //         if(i == start_node) {
+    //             cout << "자기 자신" << '\n';
+    //         } else {
+    //             cout << "경로 없음" << '\n';
+
+    //         }
+    //     } else {
+    //         int prev = pre[i];
+    //         while(prev != 0) {
+    //             cout << prev << ' ';
+    //             prev = pre[prev];
+    //         }
+    //         cout << '\n';
+    //     }
+    // }
+    // cout << '\n';
 
     for(int i=1; i<=V; i++) {
         if(dist[i] == (int) 1e9) {
