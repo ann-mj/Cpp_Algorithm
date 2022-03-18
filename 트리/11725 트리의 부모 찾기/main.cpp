@@ -9,7 +9,8 @@ int N;
 
 void put_parent(int cur) {
     for(auto adj : arr[cur]) {
-        if(p[adj] != 0) continue; // 이게 제일 중요하네 -> 이거 없으면 무한 루프에 걸림
+        // if(p[adj] != 0) continue; // 이게 제일 중요하네 -> 이거 없으면 무한 루프에 걸림
+        if(p[cur] == adj) continue; // 현재 노드의 부모라면 스킵
         p[adj] = cur;
         put_parent(adj);
     }
