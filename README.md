@@ -65,6 +65,7 @@
 |1| BOJ| 15649|2022-03-18|[N과 M(1)](https://www.acmicpc.net/problem/15649) |🟩||
 |2| BOJ| 15650|2022-03-18|[N과 M(2)](https://www.acmicpc.net/problem/15650) |🟩||
 |3| BOJ| 15651|2022-03-18|[N과 M(3)](https://www.acmicpc.net/problem/15651) |🟩||
+|3| BOJ| 15652|2022-03-18|[N과 M(4)](https://www.acmicpc.net/problem/15652) |🟩||
 
 ## 프로그래머스
 ### LEVEL1
