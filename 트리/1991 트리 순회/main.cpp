@@ -10,7 +10,8 @@ string f;
 string m;
 string b;
 void front(int idx) {
-    f.push_back(idx+'A');
+    cout << char(idx + 'A');
+    // f.push_back(idx+'A');
     if(tree[idx][0]) front(tree[idx][0]);
     if(tree[idx][1]) front(tree[idx][1]);
 }
@@ -42,11 +43,10 @@ int main(void) {
         }
     }
 
-    front(0);
-
+    front(0); cout << '\n';
     mid(0);
     up_back(0);
-    cout << f << '\n';
+    // cout << f << '\n';
     cout << m << '\n';
     cout << b << '\n';
     return 0;
